@@ -1,4 +1,4 @@
-# student_qrcod
+
 [![MasterHead](https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif)](https://me.makhmudyuldaskhev.uz)
 <h1 align="center">Hi 👋, I'm MAKHMUD YULDASKHEV</h1>
 <h3 align="center">I'm BACKEND Developer from Uzbekistan!</h3>
